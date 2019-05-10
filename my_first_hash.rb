@@ -6,7 +6,7 @@
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
    # add 2 muskets to the shipping_manifest hash below
 
-def my_has
+def my_hash
   my_hash = {"name" => "Goat", "age" =>"100"}
 end
 
